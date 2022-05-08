@@ -14,3 +14,8 @@ Create an issue [here](https://github.com/OSCA-Kampala-Chapter/support/issues/ne
 ## Report on Open Source Software in the Social Sector by Tech For Social Good
 
 [Report](https://socialimpact.github.com/assets/img/research/GitHub_tCF_OSSInSocialSector_FINAL_updated.pdf)
+
+
+## Sustainability in Open Source - Getting paid
+
+[Guide by Github](https://opensource.guide/getting-paid/)
